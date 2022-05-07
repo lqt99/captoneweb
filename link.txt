@@ -1,0 +1,6 @@
+link github:https://github.com/lqt99/webcaptone.git
+link youtube demo:https://www.youtube.com/watch?v=mEPsVkZvT-Y
+link web:https://webcaptone.vercel.app/
+Thông tin nhóm: 
+	Lê Quang Thịnh:hoàn thành các web: contact, gallery, blog  
+	Nguyễn Bá Tuấn: hoàn thành các web: home, services, about
